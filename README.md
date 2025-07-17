@@ -55,6 +55,7 @@ Developed by [@mrxcodder](https://github.com/mrxcodder)
 
 ---
 
-## 📄 License
+## 📄 License  
+This software is proprietary and NOT open-source.  
+For permissions, please contact: tolgakapcak8@gmail.com
 
-This project is licensed under the [MIT License](LICENSE).
