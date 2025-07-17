@@ -16,7 +16,7 @@ It’s designed to help users save time by providing quick access to essential i
 
 ---
 
-## 📷 Screenshots *(optional)*
+## 📷 Screenshots 
 
 <img width="624" height="755" alt="2" src="https://github.com/user-attachments/assets/fd861894-cf7f-4911-be43-3ead8038e37b" />
 
