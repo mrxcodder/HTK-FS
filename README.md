@@ -12,7 +12,7 @@ It’s designed to help users save time by providing quick access to essential i
 - 🧠 Lists commonly used post-format tools  
 - 🚀 Suggests missing essential programs  
 - 🔌 Portable .exe – no installation required  
-- 🧰 Developed in C++ (native)
+- 🐍 Developed in Python (converted to .exe using PyInstaller)
 
 ---
 
